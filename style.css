@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(198, 167, 136);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    margin-left: 10px;
+    text-decoration: none;
+    font-size: 25px;
+    color:rgb(30, 112, 170);
+}
+
+p {
+    margin-left: 10px;
+    font-size: 25px;
+    color: rgb(30, 112, 170);
+}
+
+li {
+    color: rgb(30, 112, 170);
+   }
+
+button {
+    color: rgb(26, 95, 145);
+    background-color: rgb(198, 167, 136);
+    border: 2px solid rgb(180, 141, 100);
+}
+
+label {
+    color: rgb(30, 112, 170);
+}
+
+input {
+    background-color:  rgb(170, 212, 244);
+    border: 2px solid rgb(180, 141, 100);
+}
+
+code {
+    margin-left: 10px;
+    color: rgb(245, 245, 245);
+    font-size: 16px;
+}
